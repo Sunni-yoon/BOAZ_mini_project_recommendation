@@ -12,6 +12,7 @@
 ### 추천시스템 구현 방법
 - 통계적 기법
 - Matrix Factorization
+- 리뷰 감성 분석
 
 <br/> 
 
